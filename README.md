@@ -302,6 +302,7 @@ npm run smoke            # 发行包冒烟
   </tr>
   <tr>
     <td align="center" width="120"><a href="https://github.com/xinspark"><img src="https://avatars.githubusercontent.com/u/109896752?s=112" width="56" height="56" alt="xinspark" /><br /><sub>xinspark</sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/xzty255"><img src="https://avatars.githubusercontent.com/u/138992000?s=112" width="56" height="56" alt="xzty255" /><br /><sub>xzty255</sub></a></td>
     <td align="center" width="120"><a href="https://github.com/YifanHere"><img src="https://avatars.githubusercontent.com/u/62582492?s=112" width="56" height="56" alt="YifanHere" /><br /><sub>YifanHere</sub></a></td>
   </tr>
 </table>
